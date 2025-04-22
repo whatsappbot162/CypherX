@@ -14,22 +14,22 @@
     "start": "node index.js"
   },
 "env": {
-  "SESSION_ID": {
+  "SESSION_ID": {CYPHER-X:~UEsDBBQAAAgIAKemllrkO*+7OwUAAH8JAAAKAAAAY3JlZHMuanNvbq1WaY+rNhT9L*46eW*YEyKNVLaQjewJCVVVsZhlAjaxTQh5yn+vSGY6I7V9nUrlEzL2veeee3wuPwDCGYUT2ID+D1CS7Owz2L6ypoSgD*QqjiEBHRD5zAd9sB3MuklgC8PLqa5I1xer1eE5kk0dTQZXZrsThMw4PfCSkLyAWweUVZBn4U8CUjq44AOnu0PPW3Cmfd7Op+VV1Jr0NEI03veg2sPHsRLv6xdwayP6GclQYpUpLCDx8wlsFn5GvgbfmJ+SvcFqljHP4wVDY4I2nzcXaDrpq3qmIq5Vl98ccxd*Db6RZomCEa3Xo4kWXUW+WA4PLppFjqEfpzpFQXO1IpmbucsHfJolCEajCCKWsebLvFtDJ85t1R3vrhmh+6n*HAabietYO7F7GPQSNNqYPCtT907TF4Dj0MnieVqI3iHdhsF+ehlddDGWT*N1XS3HSzw054vkNbUb5zPwBXnXyvG*8G5ZdTGBR5pcV*u5c5CHz9IEVcYMnaKFejjuz7OcPaG5nSLna*Dt0p+Y9rRxI74ZnGfBax2vNqnRTPWrtfabtTwd76x6vAqM3gd8n1XkZyiPjfb0vJ2pHJl6+uV0nuy5WaMHgq0JEBnzsHSC58qY9NauspbscLnaGku6mQZ7c*FqauluXqiF5LDc35TTOjzI5wn2zeTlXtERNqMI9PlbBxCYZJQRn2UY3ddEuQP86LyGIYHsTi9AFXespwNc7q9DN5WFMTo0WCpy65R5Kgk262G6nYZsvIrpC+iAkuAQUgqjYUYZJo0DKfUTSEH*13un2qIJLDCD4ywCfSDIEs9xXV4Vpd4v9Hud+oz6ZfkdQQY6ICa4cCDoM1LBDrgfGJg9oWdKA1MbGKasaopu6Jao8ZymGKImSG2JxSPpJisgZX5Rgj7flWRRlnlVunX+Hxwar2g9WVUGvMLJhsRJEm9KlqyqhtEzB3r3X3H81gEIXthDxy37It8BcUYo26KqzLEfvYv8*aMfhrhCbN2g0GhfIAH9T8uQsQwltK2sQj4J0+wMjbYO0I*9nMJbB0TwnIWwjQecg351fx+flprv*O6c4NWc5lXSdjDF6LFFEIQuFGPpG4zj7jcpUv1vKhdw3zhZhGLI9ThflEBLx8NC2jP*qGivV8VcfSLjipaGdEq85ZFIHuFS07qr8iFFSGD0znLgh8eq3OAjRD+Ju1LOLiZ1TaFYWU9F4Llugzf60fScT3EfEgf9Hx+2beCojbdxV0tttXBA2602z1*U0O*+VQ*IbzeD79+DHOPyjie*H1S7sihzosgLXV5R+t1f2uXbnz1qE0SQ+VlOW8uePS3JszS0JoWJHc22tW2iGYkGPnr67hWPu2jxY36Xhhmx7MR15jNNkbRVr141oYlxz+MGxr5K505GhcPL3wQBfZDY5GkoHYvC6MpGrLtqsz*Zm5O6yyejWX44nRrO2aWhtfEqmle23NSH3itSyjhIXU8ZPi2SLVXG9ZMijCejjGu8YUbuxvKurc*JGkF*Hc7QiKTONBeC*eByPp65ac+8rsYKWlxLc5DJnr0v5rYjOMn1aEqeu7G71MKytxwegygpdjmiVsm2+*3aU2cGM5YPF7u7aP42vbI3f3koMc7gfRi8NenfevlxJ7hb51OIt+nyD7rTV7N1tDvsR6eLjgev5utyXmlW7Fgh0pTJwo70Zd7Fm9cRmRXg1l72MvdZjEnR*moUgQ86gOCqvbEjFOOfDXYtGelvVec+ZdqHC*ydsfCPXQuCy6FP05aAXbd72rYCb7SyXDOfvZsK0NpnPliB2x9QSwECFAMUAAAICACnppZa5Dv*uzsFAAB*CQAACgAAAAAAAAAAAAAAgIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAABjBQAAAAA=
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
     "value": "",
     "required": false
   },
-  "BOT_NAME": {
+  "BOT_NAME": {HipsterSavvy x
     "description": "The display name of the bot as it will appear in interactions.",
     "value": "CypherX",
     "required": false
   },
-  "OWNER_NUMBER": {
+  "OWNER_NUMBER": {254100719348
     "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
     "value": "",
     "required": true
   },
-  "OWNER_NAME": {
+  "OWNER_NAME": {Hipster Savvy
     "description": "The name of the primary owner of the bot.",
     "value": "",
     "required": true
